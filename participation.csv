@@ -1,506 +1,506 @@
-year,country,totalmedalcount,atheletecount
-2020,United States,113,621
-2020,People's Republic of China,89,410
-2020,Russian Federation,71,334
-2020,Great Britain,64,375
-2020,Japan,58,600
-2020,Australia,46,479
-2020,Italy,40,366
-2020,Germany,37,392
-2020,Netherlands,36,267
-2020,France,33,380
-2020,Canada,24,378
-2020,Brazil,21,310
-2020,New Zealand,20,215
-2020,Hungary,20,172
-2020,Republic of Korea,20,235
-2020,Ukraine,19,149
-2020,Spain,17,328
-2020,Cuba,15,67
-2020,Poland,14,206
-2020,Switzerland,13,113
-2020,Türkiye,13,105
-2020,Chinese Taipei,12,68
-2020,Czechia,11,109
-2020,Denmark,11,104
-2020,Kenya,10,85
-2020,Jamaica,9,54
-2020,Sweden,9,133
-2020,Serbia,9,87
-2020,Norway,8,93
-2020,Croatia,8,60
-2020,Georgia,8,33
-2020,Kazakhstan,8,97
-2020,Islamic Republic of Iran,7,65
-2020,Belgium,7,123
-2020,Belarus,7,103
-2020,India,7,120
-2020,Austria,7,73
-2020,Azerbaijan,7,44
-2020,Bulgaria,6,42
-2020,Hong Kong, China,6,43
-2020,Egypt,6,137
-2020,Slovenia,5,53
-2020,Uzbekistan,5,67
-2020,Indonesia,5,28
-2020,Colombia,5,67
-2020,Dominican Republic,5,65
-2020,Greece,4,75
-2020,Uganda,4,25
-2020,Ireland,4,120
-2020,Israel,4,89
-2020,Romania,4,102
-2020,Venezuela,4,43
-2020,Philippines,4,19
-2020,Slovakia,4,41
-2020,Ethiopia,4,36
-2020,Portugal,4,92
-2020,Armenia,4,17
-2020,Mongolia,4,43
-2020,Mexico,4,160
-2020,Ecuador,3,46
-2020,Qatar,3,15
-2020,South Africa,3,177
-2020,Kyrgyzstan,3,16
-2020,Argentina,3,185
-2020,San Marino,3,5
-2020,Kosovo,2,11
-2020,The Bahamas,2,15
-2020,Tunisia,2,63
-2020,Estonia,2,33
-2020,Fiji,2,32
-2020,Latvia,2,32
-2020,Thailand,2,41
-2020,Jordan,2,14
-2020,Malaysia,2,30
-2020,Nigeria,2,53
-2020,Finland,2,45
-2020,Bermuda,1,2
-2020,Morocco,1,44
-2020,Puerto Rico,1,37
-2020,Bahrain,1,32
-2020,Kingdom of Saudi Arabia,1,31
-2020,Lithuania,1,42
-2020,Namibia,1,11
-2020,North Macedonia,1,8
-2020,Turkmenistan,1,9
-2020,Botswana,1,13
-2020,Burkina Faso,1,7
-2020,Côte d'Ivoire,1,26
-2020,Ghana,1,12
-2020,Grenada,1,6
-2020,Kuwait,1,10
-2020,Republic of Moldova,1,20
-2020,Syrian Arab Republic,1,6
-2016,United States,121,555
-2016,People's Republic of China,70,392
-2016,Great Britain,67,360
-2016,Russian Federation,56,284
-2016,Germany,42,418
-2016,France,42,392
-2016,Japan,41,335
-2016,Australia,29,420
-2016,Italy,28,309
-2016,Canada,22,310
-2016,Republic of Korea,21,207
-2016,Netherlands,19,237
-2016,Brazil,19,462
-2016,New Zealand,18,195
-2016,Azerbaijan,18,56
-2016,Spain,17,307
-2016,Kazakhstan,17,101
-2016,Hungary,15,154
-2016,Denmark,15,119
-2016,Kenya,13,79
-2016,Uzbekistan,13,70
-2016,Jamaica,11,56
-2016,Cuba,11,117
-2016,Sweden,11,150
-2016,Ukraine,11,204
-2016,Poland,11,234
-2016,Croatia,10,85
-2016,South Africa,10,135
-2016,Czechia,10,104
-2016,Belarus,9,120
-2016,Colombia,8,143
-2016,Islamic Republic of Iran,8,63
-2016,Serbia,8,103
-2016,Türkiye,8,100
-2016,Ethiopia,8,37
-2016,Switzerland,7,102
-2016,Democratic People's Republic of Korea,7,31
-2016,Georgia,7,40
-2016,Greece,6,92
-2016,Belgium,6,104
-2016,Thailand,6,54
-2016,Malaysia,5,32
-2016,Mexico,5,123
-2016,Argentina,4,215
-2016,Slovakia,4,51
-2016,Armenia,4,31
-2016,Slovenia,4,63
-2016,Romania,4,95
-2016,Lithuania,4,67
-2016,Norway,4,62
-2016,Indonesia,3,28
-2016,Chinese Taipei,3,55
-2016,Venezuela,3,85
-2016,Bulgaria,3,50
-2016,Egypt,3,121
-2016,Tunisia,3,61
-2016,Bahrain,2,33
-2016,Vietnam,2,22
-2016,Côte d'Ivoire,2,12
-2016,The Bahamas,2,29
-2016,Algeria,2,64
-2016,Ireland,2,76
-2016,India,2,112
-2016,Mongolia,2,43
-2016,Israel,2,47
-2016,Fiji,1,53
-2016,Jordan,1,8
-2016,Kosovo,1,8
-2016,Puerto Rico,1,40
-2016,Singapore,1,25
-2016,Tajikistan,1,7
-2016,Burundi,1,9
-2016,Grenada,1,7
-2016,Niger,1,6
-2016,Philippines,1,13
-2016,Qatar,1,37
-2016,Austria,1,71
-2016,Dominican Republic,1,26
-2016,Estonia,1,46
-2016,Finland,1,54
-2016,Morocco,1,48
-2016,Nigeria,1,71
-2016,Portugal,1,90
-2016,Trinidad and Tobago,1,28
-2016,United Arab Emirates,1,12
-2012,United States,104,530
-2012,People's Republic of China,92,376
-2012,Great Britain,65,530
-2012,Russian Federation,65,429
-2012,Germany,44,383
-2012,Japan,38,291
-2012,France,35,324
-2012,Australia,35,405
-2012,Republic of Korea,30,250
-2012,Italy,28,281
-2012,Netherlands,20,173
-2012,Spain,20,278
-2012,Ukraine,19,230
-2012,Hungary,18,152
-2012,Canada,18,273
-2012,Brazil,17,248
-2012,Cuba,15,109
-2012,Islamic Republic of Iran,13,52
-2012,New Zealand,13,178
-2012,Jamaica,13,45
-2012,Kenya,13,47
-2012,Czechia,11,133
-2012,Poland,11,210
-2012,Kazakhstan,11,113
-2012,Belarus,10,160
-2012,Denmark,9,114
-2012,Azerbaijan,9,52
-2012,Colombia,9,101
-2012,Ethiopia,8,33
-2012,Sweden,8,133
-2012,Mexico,8,99
-2012,Democratic People's Republic of Korea,7,52
-2012,Romania,7,105
-2012,South Africa,6,124
-2012,Croatia,6,107
-2012,Georgia,6,34
-2012,Ireland,6,64
-2012,India,6,81
-2012,Lithuania,5,62
-2012,Mongolia,5,29
-2012,Switzerland,4,98
-2012,Norway,4,61
-2012,Argentina,4,137
-2012,Serbia,4,116
-2012,Slovenia,4,65
-2012,Trinidad and Tobago,4,25
-2012,Egypt,4,109
-2012,Thailand,4,37
-2012,Slovakia,4,47
-2012,Tunisia,3,83
-2012,Türkiye,3,112
-2012,Bulgaria,3,63
-2012,Finland,3,56
-2012,Indonesia,3,22
-2012,Belgium,3,111
-2012,Uzbekistan,3,53
-2012,Dominican Republic,2,33
-2012,Chinese Taipei,2,44
-2012,Latvia,2,45
-2012,Armenia,2,24
-2012,Estonia,2,32
-2012,Malaysia,2,29
-2012,Puerto Rico,2,25
-2012,Qatar,2,12
-2012,Greece,2,102
-2012,Singapore,2,23
-2012,Algeria,1,38
-2012,Bahrain,1,12
-2012,Grenada,1,8
-2012,The Bahamas,1,21
-2012,Uganda,1,15
-2012,Venezuela,1,68
-2012,Botswana,1,4
-2012,Cyprus,1,13
-2012,Gabon,1,21
-2012,Guatemala,1,19
-2012,Montenegro,1,33
-2012,Portugal,1,76
-2012,Afghanistan,1,6
-2012,Cameroon,1,32
-2012,Hong Kong, China,1,41
-2012,Kingdom of Saudi Arabia,1,18
-2012,Kuwait,1,0
-2012,Morocco,1,63
-2012,Tajikistan,1,16
-2012,Vietnam,1,18
-2008,United States,112,588
-2008,People's Republic of China,100,599
-2008,Russian Federation,60,454
-2008,Great Britain,51,304
-2008,Australia,46,432
-2008,France,43,309
-2008,Germany,41,420
-2008,Republic of Korea,32,265
-2008,Cuba,30,158
-2008,Italy,27,333
-2008,Japan,25,332
-2008,Ukraine,22,243
-2008,Canada,20,332
-2008,Spain,19,283
-2008,Brazil,17,268
-2008,Netherlands,16,237
-2008,Kenya,16,46
-2008,Belarus,14,177
-2008,Jamaica,11,50
-2008,Poland,11,257
-2008,Hungary,10,171
-2008,Romania,9,101
-2008,Norway,9,84
-2008,New Zealand,9,178
-2008,Kazakhstan,9,130
-2008,Ethiopia,7,27
-2008,Czechia,7,134
-2008,Georgia,7,35
-2008,Denmark,7,84
-2008,Switzerland,7,83
-2008,Slovakia,6,57
-2008,Democratic People's Republic of Korea,6,58
-2008,Thailand,6,47
-2008,Argentina,6,132
-2008,Azerbaijan,6,44
-2008,Indonesia,6,24
-2008,Slovenia,5,61
-2008,Bulgaria,5,70
-2008,Türkiye,5,67
-2008,Sweden,5,123
-2008,Lithuania,5,71
-2008,Nigeria,5,74
-2008,Croatia,5,99
-2008,Armenia,5,25
-2008,Mongolia,4,28
-2008,Mexico,4,83
-2008,Zimbabwe,4,13
-2008,Chinese Taipei,4,79
-2008,Finland,4,57
-2008,Uzbekistan,4,56
-2008,Latvia,3,47
-2008,India,3,53
-2008,Colombia,3,67
-2008,Greece,3,152
-2008,Austria,3,70
-2008,Ireland,3,55
-2008,Kyrgyzstan,3,20
-2008,Serbia,3,87
-2008,Belgium,2,94
-2008,Dominican Republic,2,24
-2008,Estonia,2,47
-2008,Portugal,2,77
-2008,Trinidad and Tobago,2,28
-2008,Islamic Republic of Iran,2,54
-2008,Algeria,2,56
-2008,Morocco,2,47
-2008,Tajikistan,2,15
-2008,The Bahamas,2,25
-2008,Egypt,2,100
-2008,Cameroon,1,32
-2008,Panama,1,5
-2008,Tunisia,1,26
-2008,Chile,1,26
-2008,Ecuador,1,25
-2008,Iceland,1,27
-2008,Malaysia,1,32
-2008,Samoa,1,6
-2008,Singapore,1,25
-2008,South Africa,1,134
-2008,Sudan,1,9
-2008,Vietnam,1,13
-2008,Afghanistan,1,4
-2008,Israel,1,43
-2008,Mauritius,1,11
-2008,Republic of Moldova,1,29
-2008,Togo,1,4
-2008,Venezuela,1,108
-2004,United States,101,533
-2004,Russian Federation,90,446
-2004,People's Republic of China,63,383
-2004,Australia,50,470
-2004,Germany,49,441
-2004,Japan,37,306
-2004,France,33,308
-2004,Italy,32,364
-2004,Republic of Korea,30,264
-2004,Great Britain,30,264
-2004,Cuba,27,151
-2004,Ukraine,22,239
-2004,Netherlands,22,210
-2004,Spain,20,316
-2004,Romania,19,108
-2004,Hungary,17,209
-2004,Greece,16,426
-2004,Belarus,13,151
-2004,Canada,12,262
-2004,Bulgaria,12,95
-2004,Brazil,10,243
-2004,Türkiye,10,64
-2004,Poland,10,194
-2004,Czechia,9,142
-2004,Thailand,8,42
-2004,Denmark,8,92
-2004,Kazakhstan,8,114
-2004,Sweden,7,115
-2004,Austria,7,74
-2004,Ethiopia,7,26
-2004,Kenya,7,46
-2004,Norway,6,52
-2004,Islamic Republic of Iran,6,37
-2004,Slovakia,6,64
-2004,Argentina,6,152
-2004,South Africa,6,106
-2004,New Zealand,5,148
-2004,Chinese Taipei,5,88
-2004,Jamaica,5,47
-2004,Uzbekistan,5,69
-2004,Croatia,5,81
-2004,Egypt,5,97
-2004,Switzerland,5,98
-2004,Azerbaijan,5,36
-2004,Democratic People's Republic of Korea,5,36
-2004,Georgia,4,32
-2004,Indonesia,4,38
-2004,Latvia,4,32
-2004,Mexico,4,109
-2004,Slovenia,4,79
-2004,Morocco,3,55
-2004,Chile,3,22
-2004,Lithuania,3,59
-2004,Zimbabwe,3,12
-2004,Belgium,3,50
-2004,Portugal,3,81
-2004,Estonia,3,42
-2004,Israel,2,36
-2004,The Bahamas,2,22
-2004,Finland,2,53
-2004,Serbia and Montenegro,2,85
-2004,Colombia,2,53
-2004,Nigeria,2,70
-2004,Venezuela,2,48
-2004,Cameroon,1,17
-2004,Dominican Republic,1,33
-2004,United Arab Emirates,1,4
-2004,Hong Kong, China,1,32
-2004,India,1,73
-2004,Paraguay,1,85
-2004,Eritrea,1,4
-2004,Mongolia,1,20
-2004,Syrian Arab Republic,1,6
-2004,Trinidad and Tobago,1,19
-2000,United States,93,586
-2000,Russian Federation,89,435
-2000,People's Republic of China,58,271
-2000,Australia,58,617
-2000,Germany,56,422
-2000,France,38,336
-2000,Italy,34,361
-2000,Cuba,29,229
-2000,Great Britain,28,310
-2000,Republic of Korea,28,281
-2000,Romania,26,145
-2000,Netherlands,25,231
-2000,Ukraine,23,230
-2000,Japan,18,266
-2000,Hungary,17,178
-2000,Belarus,17,139
-2000,Poland,14,187
-2000,Canada,14,294
-2000,Bulgaria,13,91
-2000,Greece,13,140
-2000,Sweden,12,150
-2000,Brazil,12,198
-2000,Spain,11,321
-2000,Norway,10,93
-2000,Switzerland,9,102
-2000,Jamaica,9,48
-2000,Ethiopia,8,26
-2000,Czechia,8,119
-2000,Kazakhstan,7,130
-2000,Kenya,7,56
-2000,Denmark,6,97
-2000,Indonesia,6,47
-2000,Mexico,6,78
-2000,Georgia,6,36
-2000,Türkiye,5,57
-2000,Lithuania,5,61
-2000,Slovakia,5,108
-2000,Algeria,5,47
-2000,Belgium,5,68
-2000,South Africa,5,127
-2000,Chinese Taipei,5,55
-2000,Morocco,5,55
-2000,Islamic Republic of Iran,4,33
-2000,Finland,4,70
-2000,Uzbekistan,4,70
-2000,New Zealand,4,147
-2000,Argentina,4,143
-2000,Democratic People's Republic of Korea,4,31
-2000,Austria,3,92
-2000,Azerbaijan,3,31
-2000,The Bahamas,3,25
-2000,Nigeria,3,83
-2000,Latvia,3,45
-2000,Serbia and Montenegro,3,109
-2000,Estonia,3,33
-2000,Thailand,3,52
-2000,Slovenia,2,74
-2000,Croatia,2,88
-2000,Kingdom of Saudi Arabia,2,18
-2000,Republic of Moldova,2,34
-2000,Trinidad and Tobago,2,19
-2000,Costa Rica,2,7
-2000,Portugal,2,61
-2000,Cameroon,1,34
-2000,Colombia,1,44
-2000,Mozambique,1,18
-2000,Ireland,1,64
-2000,Sri Lanka,1,18
-2000,Uruguay,1,15
-2000,Vietnam,1,7
-2000,Armenia,1,25
-2000,Barbados,1,18
-2000,Chile,1,50
-2000,Iceland,1,18
-2000,India,1,65
-2000,Israel,1,39
-2000,Kuwait,1,29
-2000,Kyrgyzstan,1,48
-2000,North Macedonia,1,10
-2000,Qatar,1,17
+year,country,totalmedalcount,atheletecount,GDP Per Capita
+2020,United States,113,621,60158.91
+2020,People's Republic of China,89,410,16296.609
+2020,Russian Federation,71,334,26586.555
+2020,Great Britain,64,375,41895.824
+2020,Japan,58,600,40044.508
+2020,Australia,46,479,48651.734
+2020,Italy,40,366,39093.523
+2020,Germany,37,392,51780.027
+2020,Netherlands,36,267,54275.004
+2020,France,33,380,42344.945
+2020,Canada,24,378,46193.176
+2020,Brazil,21,310,14109.764
+2020,New Zealand,20,215,42052.14
+2020,Hungary,20,172,31232.102
+2020,Republic of Korea,20,235,42396.76
+2020,Ukraine,19,149,12407.79
+2020,Spain,17,328,36051.418
+2020,Cuba,15,67,#N/A
+2020,Poland,14,206,32546.826
+2020,Switzerland,13,113,67928.195
+2020,Türkiye,13,105,28726.191
+2020,Chinese Taipei,12,68,#N/A
+2020,Czechia,11,109,38639.98
+2020,Denmark,11,104,55275.062
+2020,Kenya,10,85,4497.363
+2020,Jamaica,9,54,9206.292
+2020,Sweden,9,133,51331.28
+2020,Serbia,9,87,#N/A
+2020,Norway,8,93,63776.16
+2020,Croatia,8,60,27002.2
+2020,Georgia,8,33,13966.326
+2020,Kazakhstan,8,97,25361.508
+2020,Islamic Republic of Iran,7,65,14432.362
+2020,Belgium,7,123,49030.992
+2020,Belarus,7,103,19239.553
+2020,India,7,120,6172.0425
+2020,Austria,7,73,51854.75
+2020,Azerbaijan,7,44,13726.77
+2020,Bulgaria,6,42,22466.918
+2020,Hong Kong, China,6,43,55892.11
+2020,Egypt,6,137,11989.6
+2020,Slovenia,5,53,37155.023
+2020,Uzbekistan,5,67,7407.7275
+2020,Indonesia,5,28,11515.681
+2020,Colombia,5,67,13358.298
+2020,Dominican Republic,5,65,16768.426
+2020,Greece,4,75,27009.207
+2020,Uganda,4,25,2240.4902
+2020,Ireland,4,120,91791.44
+2020,Israel,4,89,39680.664
+2020,Romania,4,102,29057.408
+2020,Venezuela,4,43,#N/A
+2020,Philippines,4,19,7773.2603
+2020,Slovakia,4,41,30960.959
+2020,Ethiopia,4,36,2253.2358
+2020,Portugal,4,92,32011.324
+2020,Armenia,4,17,13357.697
+2020,Mongolia,4,43,11666.779
+2020,Mexico,4,160,18639.662
+2020,Ecuador,3,46,10356.975
+2020,Qatar,3,15,89019.07
+2020,South Africa,3,177,12866.569
+2020,Kyrgyzstan,3,16,4790.6587
+2020,Argentina,3,185,19694.56
+2020,San Marino,3,5,56364.215
+2020,Kosovo,2,11,10706.511
+2020,The Bahamas,2,15,#N/A
+2020,Tunisia,2,63,10040.124
+2020,Estonia,2,33,35883.266
+2020,Fiji,2,32,10961.847
+2020,Latvia,2,32,29575.568
+2020,Thailand,2,41,16865.549
+2020,Jordan,2,14,9231.036
+2020,Malaysia,2,30,25852.19
+2020,Nigeria,2,53,4865.087
+2020,Finland,2,45,47371.22
+2020,Bermuda,1,2,76117.805
+2020,Morocco,1,44,7546.7163
+2020,Puerto Rico,1,37,32437.965
+2020,Bahrain,1,32,47994.414
+2020,Kingdom of Saudi Arabia,1,31,44770.91
+2020,Lithuania,1,42,37179.766
+2020,Namibia,1,11,9041.77
+2020,North Macedonia,1,8,15779.787
+2020,Turkmenistan,1,9,14269.641
+2020,Botswana,1,13,13545.048
+2020,Burkina Faso,1,7,2089.5679
+2020,Côte d'Ivoire,1,26,5092.1636
+2020,Ghana,1,12,5263.5264
+2020,Grenada,1,6,13175.521
+2020,Kuwait,1,10,43922.63
+2020,Republic of Moldova,1,20,11848.899
+2020,Syrian Arab Republic,1,6,#N/A
+2016,United States,121,555,58965.99
+2016,People's Republic of China,70,392,13399.138
+2016,Great Britain,67,360,45162.996
+2016,Russian Federation,56,284,25490.709
+2016,Germany,42,418,51879.67
+2016,France,42,392,43705.15
+2016,Japan,41,335,40727.97
+2016,Australia,29,420,48107.066
+2016,Italy,28,309,40837.74
+2016,Canada,22,310,47460.37
+2016,Republic of Korea,21,207,39814.66
+2016,Netherlands,19,237,53847.83
+2016,Brazil,19,462,14402.494
+2016,New Zealand,18,195,41628.4
+2016,Azerbaijan,18,56,14232.192
+2016,Spain,17,307,38497.484
+2016,Kazakhstan,17,101,24210.863
+2016,Hungary,15,154,28212.613
+2016,Denmark,15,119,54185.008
+2016,Kenya,13,79,4244.8574
+2016,Uzbekistan,13,70,6663.9497
+2016,Jamaica,11,56,9906.04
+2016,Cuba,11,117,#N/A
+2016,Sweden,11,150,51334.434
+2016,Ukraine,11,204,11536.316
+2016,Poland,11,234,28497.104
+2016,Croatia,10,85,26056.287
+2016,South Africa,10,135,13844.276
+2016,Czechia,10,104,37014.96
+2016,Belarus,9,120,17883.19
+2016,Colombia,8,143,14358.168
+2016,Islamic Republic of Iran,8,63,14968.595
+2016,Serbia,8,103,#N/A
+2016,Türkiye,8,100,26568.02
+2016,Ethiopia,8,37,1864.4877
+2016,Switzerland,7,102,67907.39
+2016,Democratic People's Republic of Korea,7,31,#N/A
+2016,Georgia,7,40,12963.744
+2016,Greece,6,92,28239.92
+2016,Belgium,6,104,49829.926
+2016,Thailand,6,54,16393.314
+2016,Malaysia,5,32,24859.797
+2016,Mexico,5,123,20423.559
+2016,Argentina,4,215,23189.527
+2016,Slovakia,4,51,29327.516
+2016,Armenia,4,31,11580.384
+2016,Slovenia,4,63,34853.043
+2016,Romania,4,95,24758.818
+2016,Lithuania,4,67,31925.803
+2016,Norway,4,62,63547.688
+2016,Indonesia,3,28,10519.295
+2016,Chinese Taipei,3,55,#N/A
+2016,Venezuela,3,85,#N/A
+2016,Bulgaria,3,50,20732.58
+2016,Egypt,3,121,10765.829
+2016,Tunisia,3,61,10751.397
+2016,Bahrain,2,33,48486.305
+2016,Vietnam,2,22,8545.702
+2016,Côte d'Ivoire,2,12,4620.349
+2016,The Bahamas,2,29,#N/A
+2016,Algeria,2,64,11888.323
+2016,Ireland,2,76,72293.21
+2016,India,2,112,5789.678
+2016,Mongolia,2,43,11058.95
+2016,Israel,2,47,38570.87
+2016,Fiji,1,53,12179.07
+2016,Jordan,1,8,9633.101
+2016,Kosovo,1,8,10031.048
+2016,Puerto Rico,1,40,34539.586
+2016,Singapore,1,25,91270.64
+2016,Tajikistan,1,7,3091.224
+2016,Burundi,1,9,764.3366
+2016,Grenada,1,7,14351.394
+2016,Niger,1,6,1143.8174
+2016,Philippines,1,13,7616.05
+2016,Qatar,1,37,97783.12
+2016,Austria,1,71,53345.742
+2016,Dominican Republic,1,26,15967.202
+2016,Estonia,1,46,32008.934
+2016,Finland,1,54,46206.79
+2016,Morocco,1,48,7632.1855
+2016,Nigeria,1,71,5209.074
+2016,Portugal,1,90,31847.537
+2016,Trinidad and Tobago,1,28,27992.12
+2016,United Arab Emirates,1,12,71244.586
+2012,United States,104,530,55796.973
+2012,People's Republic of China,92,376,10370.727
+2012,Great Britain,65,530,42505.44
+2012,Russian Federation,65,429,25933.293
+2012,Germany,44,383,49872.45
+2012,Japan,38,291,38735.895
+2012,France,35,324,42789.05
+2012,Australia,35,405,46289.184
+2012,Republic of Korea,30,250,36049.195
+2012,Italy,28,281,41501.71
+2012,Netherlands,20,173,51860.055
+2012,Spain,20,278,35768.742
+2012,Ukraine,19,230,12985.087
+2012,Hungary,18,152,24816.346
+2012,Canada,18,273,46116.426
+2012,Brazil,17,248,15425.353
+2012,Cuba,15,109,#N/A
+2012,Islamic Republic of Iran,13,52,14541.85
+2012,New Zealand,13,178,38753.727
+2012,Jamaica,13,45,9715.208
+2012,Kenya,13,47,3899.167
+2012,Czechia,11,133,33688.1
+2012,Poland,11,210,25258.594
+2012,Kazakhstan,11,113,22702.578
+2012,Belarus,10,160,18611.453
+2012,Denmark,9,114,51216.31
+2012,Azerbaijan,9,52,14027.469
+2012,Colombia,9,101,12934.966
+2012,Ethiopia,8,33,1411.136
+2012,Sweden,8,133,48300.844
+2012,Mexico,8,99,19842.564
+2012,Democratic People's Republic of Korea,7,52,#N/A
+2012,Romania,7,105,21953.324
+2012,South Africa,6,124,13864.971
+2012,Croatia,6,107,24203.596
+2012,Georgia,6,34,11294.861
+2012,Ireland,6,64,53587.67
+2012,India,6,81,4551.8623
+2012,Lithuania,5,62,27330.896
+2012,Mongolia,5,29,9586.715
+2012,Switzerland,4,98,65783.586
+2012,Norway,4,61,62399.168
+2012,Argentina,4,137,24118.867
+2012,Serbia,4,116,#N/A
+2012,Slovenia,4,65,32613.49
+2012,Trinidad and Tobago,4,25,29146.334
+2012,Egypt,4,109,10279.86
+2012,Thailand,4,37,15129.901
+2012,Slovakia,4,47,26582.541
+2012,Tunisia,3,83,10428.975
+2012,Türkiye,3,112,22452.844
+2012,Bulgaria,3,63,18911.982
+2012,Finland,3,56,45952.246
+2012,Indonesia,3,22,9015.801
+2012,Belgium,3,111,48210.926
+2012,Uzbekistan,3,53,5472.8335
+2012,Dominican Republic,2,33,13087.949
+2012,Chinese Taipei,2,44,#N/A
+2012,Latvia,2,45,23970.453
+2012,Armenia,2,24,10289.976
+2012,Estonia,2,32,28997.322
+2012,Malaysia,2,29,21690.453
+2012,Puerto Rico,2,25,33638.867
+2012,Qatar,2,12,110931.51
+2012,Greece,2,102,28322.572
+2012,Singapore,2,23,82886.78
+2012,Algeria,1,38,11270.701
+2012,Bahrain,1,12,47793.53
+2012,Grenada,1,8,12243.072
+2012,The Bahamas,1,21,#N/A
+2012,Uganda,1,15,2013.5464
+2012,Venezuela,1,68,#N/A
+2012,Botswana,1,4,12975.785
+2012,Cyprus,1,13,35642.92
+2012,Gabon,1,21,14368
+2012,Guatemala,1,19,7590.7554
+2012,Montenegro,1,33,16802.506
+2012,Portugal,1,76,30156.701
+2012,Afghanistan,1,6,2122.8308
+2012,Cameroon,1,32,3371.9756
+2012,Hong Kong, China,1,41,53783.953
+2012,Kingdom of Saudi Arabia,1,18,46041.664
+2012,Kuwait,1,0,60588.156
+2012,Morocco,1,63,7168.6743
+2012,Tajikistan,1,16,2610.146
+2012,Vietnam,1,18,6950.2876
+2008,United States,112,588,55427.18
+2008,People's Republic of China,100,599,7412.8745
+2008,Russian Federation,60,454,24887.854
+2008,Great Britain,51,304,43750.8
+2008,Australia,46,432,44675.14
+2008,France,43,309,42993.06
+2008,Germany,41,420,47643.223
+2008,Republic of Korea,32,265,32275.125
+2008,Cuba,30,158,#N/A
+2008,Italy,27,333,44623.6
+2008,Japan,25,332,38781.2
+2008,Ukraine,22,243,13719.271
+2008,Canada,20,332,45841.996
+2008,Spain,19,283,39239.387
+2008,Brazil,17,268,14067.946
+2008,Netherlands,16,237,53848.254
+2008,Kenya,16,46,3545.5935
+2008,Belarus,14,177,15942.896
+2008,Jamaica,11,50,10376.103
+2008,Poland,11,257,22334.781
+2008,Hungary,10,171,25824.693
+2008,Romania,9,101,22166.418
+2008,Norway,9,84,63986.246
+2008,New Zealand,9,178,37847.33
+2008,Kazakhstan,9,130,19770.217
+2008,Ethiopia,7,27,1068.1381
+2008,Czechia,7,134,34580.44
+2008,Georgia,7,35,9358.614
+2008,Denmark,7,84,52982.53
+2008,Switzerland,7,83,66197.87
+2008,Slovakia,6,57,25460.74
+2008,Democratic People's Republic of Korea,6,58,#N/A
+2008,Thailand,6,47,13459.246
+2008,Argentina,6,132,22992.39
+2008,Azerbaijan,6,44,12672.376
+2008,Indonesia,6,24,7578.205
+2008,Slovenia,5,61,36075.47
+2008,Bulgaria,5,70,18265.783
+2008,Türkiye,5,67,19755.465
+2008,Sweden,5,123,47963.492
+2008,Lithuania,5,71,26784.88
+2008,Nigeria,5,74,4396.801
+2008,Croatia,5,99,26805.46
+2008,Armenia,5,25,10201.56
+2008,Mongolia,4,28,7346.279
+2008,Mexico,4,83,19874.416
+2008,Zimbabwe,4,13,1353.2074
+2008,Chinese Taipei,4,79,#N/A
+2008,Finland,4,57,48817.99
+2008,Uzbekistan,4,56,4457.699
+2008,Latvia,3,47,24899.646
+2008,India,3,53,3701.3955
+2008,Colombia,3,67,11507.525
+2008,Greece,3,152,37394.01
+2008,Austria,3,70,53166.055
+2008,Ireland,3,55,56244.406
+2008,Kyrgyzstan,3,20,4142.2114
+2008,Serbia,3,87,#N/A
+2008,Belgium,2,94,48423.516
+2008,Dominican Republic,2,24,11899.228
+2008,Estonia,2,47,29621.764
+2008,Portugal,2,77,32307.912
+2008,Trinidad and Tobago,2,28,28283.86
+2008,Islamic Republic of Iran,2,54,14525.76
+2008,Algeria,2,56,10847.177
+2008,Morocco,2,47,6479.977
+2008,Tajikistan,2,15,2219.3052
+2008,The Bahamas,2,25,#N/A
+2008,Egypt,2,100,9770.222
+2008,Cameroon,1,32,3308.3198
+2008,Panama,1,5,21516.59
+2008,Tunisia,1,26,10073.63
+2008,Chile,1,26,20695.562
+2008,Ecuador,1,25,10284.954
+2008,Iceland,1,27,52999.438
+2008,Malaysia,1,32,19792.266
+2008,Samoa,1,6,5585.776
+2008,Singapore,1,25,71534.98
+2008,South Africa,1,134,13596.288
+2008,Sudan,1,9,4993.871
+2008,Vietnam,1,13,5757.924
+2008,Afghanistan,1,4,1556.8445
+2008,Israel,1,43,33611.07
+2008,Mauritius,1,11,16134.475
+2008,Republic of Moldova,1,29,8357.337
+2008,Togo,1,4,1549.4404
+2008,Venezuela,1,108,#N/A
+2004,United States,101,533,52989.03
+2004,Russian Federation,90,446,18765.52
+2004,People's Republic of China,63,383,4817.212
+2004,Australia,50,470,41798.72
+2004,Germany,49,441,43605.277
+2004,Japan,37,306,37576.39
+2004,France,33,308,41265.125
+2004,Italy,32,364,44118.035
+2004,Republic of Korea,30,264,27515.951
+2004,Great Britain,30,264,41853.477
+2004,Cuba,27,151,#N/A
+2004,Ukraine,22,239,10902.038
+2004,Netherlands,22,210,48586.703
+2004,Spain,20,316,37248.824
+2004,Romania,19,108,16012.26
+2004,Hungary,17,209,23358.887
+2004,Greece,16,426,34564.76
+2004,Belarus,13,151,10839.956
+2004,Canada,12,262,43704.668
+2004,Bulgaria,12,95,13703.096
+2004,Brazil,10,243,12268.664
+2004,Türkiye,10,64,16775.08
+2004,Poland,10,194,18198.1
+2004,Czechia,9,142,28542.254
+2004,Thailand,8,42,11828.839
+2004,Denmark,8,92,50446.543
+2004,Kazakhstan,8,114,15208.44
+2004,Sweden,7,115,44354.39
+2004,Austria,7,74,48633.273
+2004,Ethiopia,7,26,781.9135
+2004,Kenya,7,46,3306.79
+2004,Norway,6,52,61068.63
+2004,Islamic Republic of Iran,6,37,13126.583
+2004,Slovakia,6,64,18834.393
+2004,Argentina,6,152,17950.15
+2004,South Africa,6,106,11713.88
+2004,New Zealand,5,148,36461.46
+2004,Chinese Taipei,5,88,#N/A
+2004,Jamaica,5,47,10110.535
+2004,Uzbekistan,5,69,3430.6287
+2004,Croatia,5,81,22843.691
+2004,Egypt,5,97,8249.868
+2004,Switzerland,5,98,59967.914
+2004,Azerbaijan,5,36,5610.763
+2004,Democratic People's Republic of Korea,5,36,#N/A
+2004,Georgia,4,32,6632.8145
+2004,Indonesia,4,38,6348.2944
+2004,Latvia,4,32,18165.75
+2004,Mexico,4,109,19017.754
+2004,Slovenia,4,79,30041.814
+2004,Morocco,3,55,5620.2886
+2004,Chile,3,22,17571.025
+2004,Lithuania,3,59,19226.469
+2004,Zimbabwe,3,12,1934.1647
+2004,Belgium,3,50,45540.47
+2004,Portugal,3,81,30892.82
+2004,Estonia,3,42,23691.152
+2004,Israel,2,36,29972.48
+2004,The Bahamas,2,22,#N/A
+2004,Finland,2,53,43724.965
+2004,Serbia and Montenegro,2,85,11599.725
+2004,Colombia,2,53,9816.277
+2004,Nigeria,2,70,3813.5273
+2004,Venezuela,2,48,#N/A
+2004,Cameroon,1,17,3245.4958
+2004,Dominican Republic,1,33,9460.913
+2004,United Arab Emirates,1,4,101872.125
+2004,Hong Kong, China,1,32,40861.715
+2004,India,1,73,3037.0637
+2004,Paraguay,1,85,9022.798
+2004,Eritrea,1,4,#N/A
+2004,Mongolia,1,20,5453.993
+2004,Syrian Arab Republic,1,6,#N/A
+2004,Trinidad and Tobago,1,19,22223.867
+2000,United States,93,586,50169.855
+2000,Russian Federation,89,435,14569.937
+2000,People's Republic of China,58,271,3451.6792
+2000,Australia,58,617,38412.64
+2000,Germany,56,422,42928.18
+2000,France,38,336,39726.49
+2000,Italy,34,361,43053.934
+2000,Cuba,29,229,#N/A
+2000,Great Britain,28,310,38645.336
+2000,Republic of Korea,28,281,22963.639
+2000,Romania,26,145,12176.631
+2000,Netherlands,25,231,47422.203
+2000,Ukraine,23,230,7496.813
+2000,Japan,18,266,36323.094
+2000,Hungary,17,178,19408.922
+2000,Belarus,17,139,8053.1733
+2000,Poland,14,187,16177.867
+2000,Canada,14,294,41307.75
+2000,Bulgaria,13,91,10504.843
+2000,Greece,13,140,29133.713
+2000,Sweden,12,150,40625.363
+2000,Brazil,12,198,11529.486
+2000,Spain,11,321,34756.742
+2000,Norway,10,93,57473.184
+2000,Switzerland,9,102,59190.414
+2000,Jamaica,9,48,9496.543
+2000,Ethiopia,8,26,719.00446
+2000,Czechia,8,119,24976.506
+2000,Kazakhstan,7,130,10275.762
+2000,Kenya,7,56,3303.3264
+2000,Denmark,6,97,48907.01
+2000,Indonesia,6,47,5621.262
+2000,Mexico,6,78,19407.033
+2000,Georgia,6,36,4919.232
+2000,Türkiye,5,57,15223.352
+2000,Lithuania,5,61,13846.684
+2000,Slovakia,5,108,15666.544
+2000,Algeria,5,47,8786.19
+2000,Belgium,5,68,43024.14
+2000,South Africa,5,127,10598.86
+2000,Chinese Taipei,5,55,#N/A
+2000,Morocco,5,55,4771.347
+2000,Islamic Republic of Iran,4,33,11026.102
+2000,Finland,4,70,39894.195
+2000,Uzbekistan,4,70,2967.6018
+2000,New Zealand,4,147,32728.273
+2000,Argentina,4,143,18524.81
+2000,Democratic People's Republic of Korea,4,31,#N/A
+2000,Austria,3,92,46469.86
+2000,Azerbaijan,3,31,3998.5205
+2000,The Bahamas,3,25,#N/A
+2000,Nigeria,3,83,2963.2742
+2000,Latvia,3,45,12989.898
+2000,Serbia and Montenegro,3,109,8900.655
+2000,Estonia,3,33,17765.207
+2000,Thailand,3,52,9791.8955
+2000,Slovenia,2,74,26276.945
+2000,Croatia,2,88,18331.303
+2000,Kingdom of Saudi Arabia,2,18,40406.332
+2000,Republic of Moldova,2,34,5004.6675
+2000,Trinidad and Tobago,2,19,16347.527
+2000,Costa Rica,2,7,12570.696
+2000,Portugal,2,61,30383.139
+2000,Cameroon,1,34,2937.992
+2000,Colombia,1,44,9138.319
+2000,Mozambique,1,18,621.2493
+2000,Ireland,1,64,48441.7
+2000,Sri Lanka,1,18,6154.951
+2000,Uruguay,1,15,14762.948
+2000,Vietnam,1,7,3690.8682
+2000,Armenia,1,25,3921.8574
+2000,Barbados,1,18,15505.871
+2000,Chile,1,50,15415.754
+2000,Iceland,1,18,41530.516
+2000,India,1,65,2571.1497
+2000,Israel,1,39,30476.393
+2000,Kuwait,1,29,58117.18
+2000,Kyrgyzstan,1,48,3078.9092
+2000,North Macedonia,1,10,10224.752
+2000,Qatar,1,17,79400.43
